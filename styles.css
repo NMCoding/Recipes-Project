@@ -1,14 +1,18 @@
+body {
+  background: lightgray;
+}
+
 h1 {
-  color: chocolate;
-  font-size: 1.3em;
+  color: black;
+  font-size: 2.5em;
   font-weight: normal;
 }
 
 p {
-  color: darkgreen;
+  color: teal;
 }
 
-em {
+ {
   font-weight: bold;
   text-decoration: underline;
 }
